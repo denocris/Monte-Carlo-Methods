@@ -10,7 +10,9 @@
 
 - Pseudo random numbers
   > A Docker container for the afternoon exercises 
-  >  is provided. Pull it with :
+  >  is provided. 
+  
+  >Pull it with :
   >  ```docker pull rinnocente/rng```
   >   (2017/03/28)
 
