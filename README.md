@@ -9,10 +9,10 @@
 ### Day 2
 
 - Pseudo random numbers
---  Docker container for the afternoon exercises 
-    is provided. Pull it with :
-    ```docker pull rinnocente/rng```
-     (2017/03/28)
+  * A Docker container for the afternoon exercises 
+  *  is provided. Pull it with :
+  *  ```docker pull rinnocente/rng```
+  *   (2017/03/28)
 
 ### Day 3
 
