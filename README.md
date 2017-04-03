@@ -3,7 +3,6 @@
 ### Day 1
 
 - Introduction to probability
-- Stochastic processes
 - Statistical tests
 
 ### Day 2
@@ -18,11 +17,12 @@
 
 ### Day 3
 
-- Importance sampling
 - Sampling multi-variate Gaussian deviates
+- Importance sampling
 
 ### Day 4
 
+- Stochastic processes
 - Metropolis Monte Carlo
 
 ### Day 5
