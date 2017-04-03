@@ -1,4 +1,5 @@
 # Monte Carlo Methods
+Teachers: Stefano Baroni, Federico Becca, Pietro Delucas, Roberto Innocente
 
 ### Day 1
 
